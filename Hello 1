@@ -1,0 +1,7 @@
+#include<iostream> 
+using nemapeace std
+void main()
+{
+cout<< hello world!;
+returns 0;
+}
